@@ -1,11 +1,8 @@
 # Rest-of-Season Contact Rate (MLB) — Case Study
-
 Calibrated MLB ROS contact-rate model (data → features → model → calibration → report).
 
-**Live report:** https://<your-username>.github.io/mlb-contact-rate-ros-case-study/
-
-**Instructions:** see [`INSTRUCTIONS.md`](INSTRUCTIONS.md)
-
+**Live report:** https://Risky-Scout.github.io/mlb-contact-rate-ros-case-study/  
+**Instructions:** [`Instructions.md`](Instructions.md)
 ## Repository Layout
 ```text
 mlb-contact-rate-ros-case-study/
